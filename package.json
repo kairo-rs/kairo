@@ -1,0 +1,28 @@
+{
+  "name": "kairo",
+  "version": "1.0.0",
+  "description": "Kairo theme starter with sass for wordpress",
+  "main": "index.php",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kairo-rs/kairo.git"
+  },
+  "keywords": [
+    "sass",
+    "underscores",
+    "grunt",
+    "wordpress"
+  ],
+  "author": "cgv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kairo-rs/kairo/issues"
+  },
+  "homepage": "https://github.com/kairo-rs/kairo#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
